@@ -2,10 +2,10 @@
 <h3 align="center">A Passionate Fullstack Developer from India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gaju91&label=Profile%20views&color=0e75b6&style=flat" alt="Manishshrmam69" />
+  <img src="https://komarev.com/ghpvc/?username=gaju91&label=Profile%20views&color=0e75b6&style=flat" alt="sharma481" />
   <br />
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=gaju91&theme=nord&column=8" alt="Manishshrmam69" />
+    <img src="https://github-profile-trophy.vercel.app/?username=gaju91&theme=nord&column=8" alt="sharma481" />
   </a>
 </p>
 
