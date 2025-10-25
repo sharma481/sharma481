@@ -82,11 +82,11 @@
 ### 📈 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gaju91&show_icons=true&theme=algolia" alt="gaju91" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sharma481&show_icons=true&theme=algolia" alt="sharma481" />
   <br /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaju91&theme=algolia" alt="gaju91" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharma481&theme=algolia" alt="sharma481" />
   <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaju91&layout=compact&theme=algolia" alt="gaju91" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharma481&layout=compact&theme=algolia" alt="sharma481" />
 </p>
 
 <br/>
