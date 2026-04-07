@@ -31,25 +31,57 @@
 
 ---
 
-## 📊 Skill Dashboard (Pie Chart Style)
+## 📊 Skill Dashboard (Grafana Style)
 
 <p align="center">
   <img src="https://quickchart.io/chart?c={
     type:'doughnut',
     data:{
-      labels:['Node.js','JavaScript','React','Python','AI','MongoDB','PostgreSQL','TypeScript'],
+      labels:[
+        'Node.js',
+        'JavaScript',
+        'React',
+        'Python',
+        'MongoDB',
+        'PostgreSQL',
+        'TypeScript',
+        'AI'
+      ],
       datasets:[{
-        data:[80,79,72,60,50,75,74,70],
+        data:[80,79,72,60,75,74,70,50],
+        backgroundColor:[
+          '#FF6B6B',
+          '#4ECDC4',
+          '#45B7D1',
+          '#1A535C',
+          '#FFA600',
+          '#58508D',
+          '#BC5090',
+          '#2F4B7C'
+        ],
+        borderWidth:2
       }]
     },
     options:{
       plugins:{
-        legend:{position:'bottom'}
-      }
+        legend:{
+          position:'bottom',
+          labels:{
+            color:'#ffffff',
+            font:{size:12}
+          }
+        },
+        title:{
+          display:true,
+          text:'Tech Skills Distribution',
+          color:'#ffffff',
+          font:{size:16}
+        }
+      },
+      cutout:'65%'
     }
-  }" width="500" />
+  }&backgroundColor=transparent" width="520" />
 </p>
-
 ---
 
 ## 📈 Skill Progress Bars
