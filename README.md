@@ -40,6 +40,92 @@
 
 <br />
 
+/************************************************************************************************************/
+<h1 align="center">Hi 👋, I'm Manish Sharma</h1>
+<h3 align="center">A Passionate Fullstack Developer from India</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sharma481&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sharma481&theme=algolia&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 🌟 About Me
+
+- 🛠 Full Stack Developer (MERN + PostgreSQL)
+- 💼 Focused on scalable backend & real-time systems
+- 🌱 Learning **NestJS Microservices, AWS, GCP**
+- 💡 Strong in APIs, Socket.io, Firebase
+- 🚀 Building projects in **Automation, Fitness & IoT**
+
+---
+
+## 🚀 Skill Graph
+
+<p align="center">
+
+<!-- Node.js -->
+<img src="https://progress-bar.dev/80/?title=Node.js&width=500" />
+
+<!-- JavaScript -->
+<img src="https://progress-bar.dev/79/?title=JavaScript&width=500" />
+
+<!-- React -->
+<img src="https://progress-bar.dev/72/?title=React&width=500" />
+
+<!-- Python -->
+<img src="https://progress-bar.dev/60/?title=Python&width=500" />
+
+<!-- AI -->
+<img src="https://progress-bar.dev/59/?title=AI&width=500" />
+
+<!-- PostgreSQL -->
+<img src="https://progress-bar.dev/75/?title=PostgreSQL&width=500" />
+
+<!-- MongoDB -->
+<img src="https://progress-bar.dev/78/?title=MongoDB&width=500" />
+
+<!-- SQL -->
+<img src="https://progress-bar.dev/74/?title=SQL&width=500" />
+
+<!-- C -->
+<img src="https://progress-bar.dev/65/?title=C&width=500" />
+
+</p>
+
+---
+
+## 🔗 Connect with Me
+
+<p align="left">
+<a href="https://linkedin.com/in/manish-sharma-3065882ab" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="30" width="40" />
+</a>
+<a href="https://twitter.com/const_gaju91" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" height="30" width="40" />
+</a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sharma481&show_icons=true&theme=algolia" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharma481&theme=algolia" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharma481&layout=compact&theme=algolia" />
+</p>
+
+
 ### 🤝 Connect with me
 <p align="left">
 <a href="https://twitter.com/const_gaju91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="const_gaju91" height="30" width="40" /></a>
